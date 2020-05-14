@@ -1,0 +1,11 @@
+F:\queue\c#\q\bin\Debug\netcoreapp3.1\q.exe
+F:\queue\c#\q\bin\Debug\netcoreapp3.1\q.deps.json
+F:\queue\c#\q\bin\Debug\netcoreapp3.1\q.runtimeconfig.json
+F:\queue\c#\q\bin\Debug\netcoreapp3.1\q.runtimeconfig.dev.json
+F:\queue\c#\q\bin\Debug\netcoreapp3.1\q.dll
+F:\queue\c#\q\bin\Debug\netcoreapp3.1\q.pdb
+F:\queue\c#\q\obj\Debug\netcoreapp3.1\q.csprojAssemblyReference.cache
+F:\queue\c#\q\obj\Debug\netcoreapp3.1\q.AssemblyInfoInputs.cache
+F:\queue\c#\q\obj\Debug\netcoreapp3.1\q.AssemblyInfo.cs
+F:\queue\c#\q\obj\Debug\netcoreapp3.1\q.dll
+F:\queue\c#\q\obj\Debug\netcoreapp3.1\q.pdb
